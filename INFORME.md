@@ -1,9 +1,9 @@
 # Práctica Individual: Despliegue de una Aplicación Web Estática con CI/CD ☁️
 
 **Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca (USFX)**
-**Carrera:** Ingeniería en Ciencias de la Computación
-**Materia:** COM610
-**Estudiante:** Peñaranda Villarroel Hernan Isaac
+**Carrera:** Ingeniería en Ciencias de la Computación <br>
+**Materia:** COM610 <br>
+**Estudiante:** Peñaranda Villarroel Hernan Isaac <br>
 **Docente:** Ing. Marcelo Quispe Ortega
 
 ---
